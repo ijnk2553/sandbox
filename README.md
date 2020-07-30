@@ -64,7 +64,7 @@ go run ./hello.go
 > hello world
 ```
 
-* VSCOD에서 실행
+* VSCODE에서 실행
 
 Go install
 

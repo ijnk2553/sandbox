@@ -34,7 +34,7 @@ C:¥worksapce
     ├─bin
     └─src
 ```
-* git clone
+* src 폴더에서 git clone
 ```
 git clone https://github.com/ijnk2553/sandbox.git
 ```
@@ -70,11 +70,14 @@ Go install
 
 ctrl+shift+p
 Go:Install/Update Tools
+전체선택 후 다운로드
 다운로드 완료되면
 
 hello.go 선택해서 실행(F5)
 
-* launch.json 설정
+* 디버깅 실행 안될시 launch.json 설정
+
+ctrl + shift + p -> launch.json 으로 편집 가능
 
 ```
 {

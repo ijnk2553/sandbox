@@ -28,11 +28,13 @@ https://golang.org/dl/
 
 
 * 폴더구성
+``` cmd
 C:¥worksapce
 └─go
     ├─bin
     └─src
-
+```
+* git clone
 ```
 git clone https://github.com/ijnk2553/sandbox.git
 ```

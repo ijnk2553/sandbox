@@ -27,7 +27,7 @@ https://golang.org/dl/
      * Mac : `export GOPATH=~/workspace/go`
 
 
-* 폴더구성
+* 폴더구성 (아래 구성대로 폴더 작성)
 ``` cmd
 C:¥worksapce
 └─go

@@ -38,3 +38,9 @@ C:¥worksapce
 ```
 git clone https://github.com/ijnk2553/sandbox.git
 ```
+* module download
+&nbsp;
+src¥sandbox
+```
+go mod download 
+```

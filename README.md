@@ -40,9 +40,28 @@ git clone https://github.com/ijnk2553/sandbox.git
 ```
 * module download
 &nbsp;
-src¥sandbox
 ```
+cd C:¥worksapce¥go¥src¥sandbox
+
 go mod download 
+```
+
+* module download
+&nbsp;
+```
+cd C:¥worksapce¥go¥src¥sandbox
+
+go mod download 
+```
+
+* hello world 실행
+&nbsp;
+```
+cd hello
+
+go run ./hello.go 
+
+> hello world
 ```
 
 * launch.json 설정

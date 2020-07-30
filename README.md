@@ -26,6 +26,13 @@ https://golang.org/dl/
      * 윈도우 : GOPATH <- `C:¥workspace¥go`
      * Mac : `export GOPATH=~/workspace/go`
 
+
+* 폴더구성
+C:¥worksapce
+└─go
+    ├─bin
+    └─src
+
 ```
 git clone https://github.com/ijnk2553/sandbox.git
 ```

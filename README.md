@@ -59,15 +59,19 @@ go run ./hello.go
 
 * VSCODE에서 실행
 
-Go install
+&nbsp;&nbsp;&nbsp;&nbsp;Go install
 
-ctrl+shift+p
-Go:Install/Update Tools
-전체선택 후 다운로드
-다운로드 완료되면
+&nbsp;&nbsp;&nbsp;&nbsp;ctrl+shift+p
 
-hello.go 선택해서 실행(F5)
+&nbsp;&nbsp;&nbsp;&nbsp;Go:Install/Update Tools
 
+&nbsp;&nbsp;&nbsp;&nbsp;전체선택 후 다운로드
+
+&nbsp;&nbsp;&nbsp;&nbsp;다운로드 완료되면
+
+&nbsp;&nbsp;&nbsp;&nbsp;hello.go 선택해서 실행(F5)
+
+&nbsp;
 * 디버깅 실행 안될시 launch.json 설정
 
 ctrl + shift + p -> launch.json 으로 편집 가능

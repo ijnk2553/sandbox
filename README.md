@@ -25,3 +25,7 @@ https://golang.org/dl/
    - 시스템변수 설정에서 지정
      * 윈도우 : GOPATH <- `C:¥workspace¥go`
      * Mac : `export GOPATH=~/workspace/go`
+
+```
+git clone https://github.com/ijnk2553/sandbox.git
+```

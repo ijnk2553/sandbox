@@ -64,6 +64,16 @@ go run ./hello.go
 > hello world
 ```
 
+* VSCOD에서 실행
+
+Go install
+
+ctrl+shift+p
+Go:Install/Update Tools
+다운로드 완료되면
+
+hello.go 선택해서 실행(F5)
+
 * launch.json 설정
 
 ```
